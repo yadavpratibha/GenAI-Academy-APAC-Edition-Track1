@@ -9,11 +9,14 @@
 This repository contains my work from **GenAI Academy APAC Edition – Track 1**, where I built and deployed **AI Agents using the Agent Development Kit (ADK)** and deployed them on **Google Cloud Run**.
 
 The labs focus on the **foundations of AI agents and scalable cloud deployment** using modern **Generative AI infrastructure**.
+
 ![lecture](Live_lecture.jpg)
 
 ---
 
 # 📚 Labs Completed
+
+![cohort1](Track1-Build_and_deploy_AI_agents_using_Gemini_adk_and_acloudrun.jpg)
 
 ## 🧪 Lab 1 — Build and Deploy an ADK Agent on Cloud Run
 
@@ -28,6 +31,8 @@ In this lab, an **AI agent was built and deployed in a serverless environment**.
 ### Deployment Flow
 
 User Request → AI Agent (ADK) → LLM Processing → Response → Cloud Run Deployment
+
+![shell](shell.jpg)
 
 ---
 
