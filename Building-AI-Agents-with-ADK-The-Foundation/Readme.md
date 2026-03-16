@@ -13,6 +13,8 @@ https://codelabs.developers.google.com/devsite/codelabs/build-agents-with-adk-fo
 
 AI agents are intelligent programs that can perceive their environment, make decisions, and perform actions to accomplish tasks. They typically use **Large Language Models (LLMs)** as their reasoning engine. :contentReference[oaicite:0]{index=0}
 
+![agent](agent.jpg)
+
 In this lab we build a **basic conversational AI agent** using Google ADK and run it in a development environment.
 
 ---
@@ -28,6 +30,8 @@ In this lab you will learn how to:
 - Understand the basic **architecture of AI agents**
 
 The codelab serves as the **foundation for building more advanced multi-agent systems later.** :contentReference[oaicite:1]{index=1}
+
+![shell](shell.jpg)
 
 ---
 
