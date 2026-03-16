@@ -1,0 +1,28 @@
+# Secrets and API Keys (CRITICAL)
+.env
+.env.*
+*.pem
+secrets.json
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Agent Logs, Traces, and Memory
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# IDEs and Editor configurations
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
